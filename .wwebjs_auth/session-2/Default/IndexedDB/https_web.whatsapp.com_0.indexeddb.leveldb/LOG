@@ -1,0 +1,20 @@
+2022/08/29-21:05:13.790 23c8 Reusing MANIFEST C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/29-21:05:13.794 23c8 Recovering log #1018
+2022/08/29-21:05:14.130 23c8 Reusing old log C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001018.log 
+2022/08/29-21:05:32.475 7268 Level-0 table #1038: started
+2022/08/29-21:05:32.803 7268 Level-0 table #1038: 1158498 bytes OK
+2022/08/29-21:05:32.872 7268 Delete type=0 #1018
+2022/08/29-21:05:33.962 70a0 Compacting 1@0 + 0@1 files
+2022/08/29-21:05:34.182 70a0 Generated table #1039@0: 20964 keys, 524034 bytes
+2022/08/29-21:05:34.189 70a0 Generated table #1040@0: 1561 keys, 45692 bytes
+2022/08/29-21:05:34.189 70a0 Compacted 1@0 + 0@1 files => 569726 bytes
+2022/08/29-21:05:34.229 70a0 compacted to: files[ 0 2 15 0 0 0 0 ]
+2022/08/29-21:05:34.692 6dc4 Compacting 1@1 + 9@2 files
+2022/08/29-21:05:35.551 6dc4 Generated table #1041@1: 34328 keys, 2258049 bytes
+2022/08/29-21:05:36.325 6dc4 Generated table #1042@1: 59974 keys, 2258882 bytes
+2022/08/29-21:05:36.781 6dc4 Generated table #1043@1: 5753 keys, 2153283 bytes
+2022/08/29-21:05:38.451 6dc4 Generated table #1044@1: 2577 keys, 2153286 bytes
+2022/08/29-21:05:39.188 6dc4 Generated table #1045@1: 3419 keys, 2149446 bytes
+2022/08/29-21:05:41.843 6dc4 Generated table #1046@1: 4328 keys, 2159687 bytes
+2022/08/29-21:05:43.524 6dc4 compacted to: files[ 0 2 15 0 0 0 0 ]
+2022/08/29-21:05:43.524 6dc4 Compaction error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-2\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001047.ldb: FILE_ERROR_NO_SPACE (ChromeMethodBFE: 3::WritableFileAppend::8)

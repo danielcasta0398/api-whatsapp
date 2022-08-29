@@ -1,0 +1,25 @@
+2022/08/16-23:32:03.770 675c Reusing MANIFEST C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/16-23:32:03.771 675c Recovering log #168
+2022/08/16-23:32:03.788 675c Reusing old log C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000168.log 
+2022/08/16-23:32:04.154 675c Level-0 table #172: started
+2022/08/16-23:32:04.187 675c Level-0 table #172: 76955 bytes OK
+2022/08/16-23:32:04.191 675c Delete type=0 #168
+2022/08/16-23:32:04.192 675c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1253456 : 1
+2022/08/16-23:32:04.192 675c Compacting 1@0 + 1@1 files
+2022/08/16-23:32:04.216 675c Generated table #173@0: 2670 keys, 71014 bytes
+2022/08/16-23:32:04.217 675c Compacted 1@0 + 1@1 files => 71014 bytes
+2022/08/16-23:32:04.218 675c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/16-23:32:04.220 675c Delete type=2 #172
+2022/08/16-23:32:04.222 675c Manual compaction at level-0 from '\x00\x1b\x05\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1253456 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/16-23:32:04.241 53f0 Level-0 table #175: started
+2022/08/16-23:32:04.268 53f0 Level-0 table #175: 720 bytes OK
+2022/08/16-23:32:04.284 53f0 Delete type=2 #169
+2022/08/16-23:32:04.284 53f0 Delete type=0 #171
+2022/08/16-23:32:04.288 53f0 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1254343 : 0
+2022/08/16-23:32:04.289 53f0 Compacting 1@0 + 1@1 files
+2022/08/16-23:32:04.346 53f0 Generated table #176@0: 2645 keys, 70402 bytes
+2022/08/16-23:32:04.346 53f0 Compacted 1@0 + 1@1 files => 70402 bytes
+2022/08/16-23:32:04.352 53f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/16-23:32:04.353 53f0 Delete type=2 #175
+2022/08/16-23:32:04.362 53f0 Manual compaction at level-0 from '\x00\x1a\x02\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1254343 : 0 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/16-23:32:04.524 53f0 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)

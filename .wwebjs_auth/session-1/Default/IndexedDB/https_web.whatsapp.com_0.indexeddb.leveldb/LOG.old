@@ -1,0 +1,10 @@
+2022/08/16-23:10:22.412 17f8 Reusing MANIFEST C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/16-23:10:22.414 17f8 Recovering log #164
+2022/08/16-23:10:22.457 17f8 Reusing old log C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-1\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000164.log 
+2022/08/16-23:10:22.458 17f8 Delete type=2 #162
+2022/08/16-23:10:22.932 17f8 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/16-23:10:22.942 6f70 Level-0 table #169: started
+2022/08/16-23:10:22.985 6f70 Level-0 table #169: 117919 bytes OK
+2022/08/16-23:10:22.990 6f70 Delete type=0 #164
+2022/08/16-23:10:22.992 17f8 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/16-23:10:23.019 6f70 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

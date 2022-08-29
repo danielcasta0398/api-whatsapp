@@ -1,0 +1,44 @@
+2022/08/16-15:31:59.578 5a84 Creating DB C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-142\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/08/16-15:31:59.586 5a84 Reusing MANIFEST C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-142\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/16-15:32:24.685 5a84 Level-0 table #5: started
+2022/08/16-15:32:24.760 5a84 Level-0 table #5: 1151320 bytes OK
+2022/08/16-15:32:24.762 5a84 Delete type=0 #3
+2022/08/16-15:32:28.091 5a84 Level-0 table #7: started
+2022/08/16-15:32:28.164 5a84 Level-0 table #7: 1468934 bytes OK
+2022/08/16-15:32:28.166 5a84 Delete type=0 #4
+2022/08/16-15:32:28.267 2d64 Compacting 1@1 + 1@2 files
+2022/08/16-15:32:28.419 2d64 Generated table #8@1: 18957 keys, 1169638 bytes
+2022/08/16-15:32:28.419 2d64 Compacted 1@1 + 1@2 files => 1169638 bytes
+2022/08/16-15:32:28.420 2d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/16-15:32:40.550 2d64 Level-0 table #10: started
+2022/08/16-15:32:40.582 2d64 Level-0 table #10: 1419248 bytes OK
+2022/08/16-15:32:40.584 2d64 Delete type=2 #5
+2022/08/16-15:32:40.584 2d64 Delete type=0 #6
+2022/08/16-15:32:40.584 2d64 Delete type=2 #7
+2022/08/16-15:32:40.587 2d64 Compacting 1@1 + 1@2 files
+2022/08/16-15:32:40.655 2d64 Generated table #11@1: 27102 keys, 1857936 bytes
+2022/08/16-15:32:40.655 2d64 Compacted 1@1 + 1@2 files => 1857936 bytes
+2022/08/16-15:32:40.656 2d64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/16-15:32:40.827 2d64 Level-0 table #13: started
+2022/08/16-15:32:40.853 2d64 Level-0 table #13: 1174486 bytes OK
+2022/08/16-15:32:40.854 2d64 Delete type=2 #8
+2022/08/16-15:32:40.854 2d64 Delete type=0 #9
+2022/08/16-15:32:40.854 2d64 Delete type=2 #10
+2022/08/16-15:32:40.857 2d64 Compacting 1@1 + 1@2 files
+2022/08/16-15:32:40.961 2d64 Generated table #14@1: 31338 keys, 2255338 bytes
+2022/08/16-15:32:41.006 2d64 Generated table #15@1: 10215 keys, 762480 bytes
+2022/08/16-15:32:41.006 2d64 Compacted 1@1 + 1@2 files => 3017818 bytes
+2022/08/16-15:32:41.007 2d64 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/16-15:32:41.007 2d64 Delete type=2 #11
+2022/08/16-15:32:41.007 2d64 Delete type=2 #13
+2022/08/16-15:32:41.190 2d64 Level-0 table #17: started
+2022/08/16-15:32:41.215 2d64 Level-0 table #17: 1128435 bytes OK
+2022/08/16-15:32:41.216 2d64 Delete type=0 #12
+2022/08/16-15:32:41.220 2d64 Compacting 1@1 + 2@2 files
+2022/08/16-15:32:41.336 2d64 Generated table #18@1: 38784 keys, 2262995 bytes
+2022/08/16-15:32:41.459 2d64 Generated table #19@1: 17504 keys, 1868726 bytes
+2022/08/16-15:32:41.459 2d64 Compacted 1@1 + 2@2 files => 4131721 bytes
+2022/08/16-15:32:41.461 2d64 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/16-15:32:41.461 2d64 Delete type=2 #14
+2022/08/16-15:32:41.461 2d64 Delete type=2 #15
+2022/08/16-15:32:41.461 2d64 Delete type=2 #17

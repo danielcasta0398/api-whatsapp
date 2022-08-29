@@ -1,0 +1,90 @@
+[0823/021246.912:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
+[0823/021319.137:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021319.138:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021319.138:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021319.149:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021320.856:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021320.856:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021320.856:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021320.857:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021321.156:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021321.156:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\Cache_Data to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0823/021321.156:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021322.156:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0823/021322.870:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021322.870:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\Cache_Data to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0823/021322.870:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021323.873:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0823/021327.545:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0823/021328.222:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021328.222:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021328.222:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021328.222:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021329.249:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0823/021329.585:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021329.585:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021329.585:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021329.585:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021330.491:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0823/021332.124:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0823/021332.501:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021332.501:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021334.152:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021334.152:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021336.563:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021338.304:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021338.304:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021338.304:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021338.304:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021338.627:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021338.627:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021339.215:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021339.215:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021340.320:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021340.320:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\Cache_Data to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0823/021340.320:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021341.227:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021341.227:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021341.321:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0823/021342.666:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021345.284:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021346.785:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0823/021347.105:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021347.105:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021347.105:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021347.105:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021349.711:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0823/021351.721:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021351.721:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021355.765:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021357.786:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021357.786:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021359.951:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021359.951:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021359.951:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021359.951:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021401.825:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021401.940:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021401.941:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\Cache_Data to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0823/021401.941:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021402.938:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0823/021408.282:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0823/021408.784:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021408.784:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021408.784:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021408.784:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021411.209:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0823/021413.235:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021413.235:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021417.301:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021419.322:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0823/021419.322:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0823/021423.387:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0823/021429.893:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021429.894:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\GPUCache to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\old_GPUCache_000
+[0823/021429.894:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021429.894:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0823/021431.938:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0823/021431.938:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\Cache_Data to C:\Users\juand\Desktop\panel-chatbot\server\.wwebjs_auth\session-3\Default\Cache\old_Cache_Data_000
+[0823/021431.939:ERROR:disk_cache.cc(192)] Unable to create cache
+[0823/021432.934:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error

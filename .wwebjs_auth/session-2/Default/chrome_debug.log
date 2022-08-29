@@ -1,0 +1,4 @@
+[0829/210542.390:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[0829/210542.395:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[0829/210542.400:INFO:CONSOLE(0)] "Uncaught (in promise) UnknownError: Unexpected internal error.", source: https://web.whatsapp.com/serviceworker.js (0)
+[0829/210542.445:ERROR:simple_index_file.cc(312)] Failed to write the temporary index file
